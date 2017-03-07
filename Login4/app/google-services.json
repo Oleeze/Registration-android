@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1066865017885",
+    "firebase_url": "https://login4-431c0.firebaseio.com",
+    "project_id": "login4-431c0",
+    "storage_bucket": "login4-431c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066865017885:android:cfa030707520b4e0",
+        "android_client_info": {
+          "package_name": "com.example.oleeze.login4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066865017885-gi1ugsgtcn236afge50nkq8dkcn2v34k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArQNkuxQtE32ddgQJPhGeF6aStvmGZCYI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

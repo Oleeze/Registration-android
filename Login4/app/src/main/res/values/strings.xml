@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Login4</string>
+    <string name="enter_your_age">Enter your age</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="user_registration">User Registration</string>
+    <string name="register_user">Register User</string>
+    <string name="already_registered_sign_in_here">Already Registered? Sign in here</string>
+    <string name="re_enter_your_password">Re-enter your password</string>
+    <string name="please_enter_your_age" />
+    <string name="textview">TextView</string>
+</resources>
